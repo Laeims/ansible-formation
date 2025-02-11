@@ -1,5 +1,5 @@
 
-#Exercice 01
+# Exercice 01
 
 vagrant up ubuntu
 
