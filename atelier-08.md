@@ -1,5 +1,5 @@
 # Exercice
-Chaque partie est réalisé 2 fois, si il ya une difference elle est noté dans la partie **retour**  
+Chaque partie est réalisée 2 fois, si il ya une difference elle est noté dans la partie **retour**  
 
 
 ansible all -m package -a "name=tree"  
