@@ -1,7 +1,7 @@
 
 # Exercice 01
 
-vagrant up ubuntu
+vagrant up ubuntu \n
 vagrant ssh ubuntu
 sudo apt update
 apt-cache search --names-only ansible
