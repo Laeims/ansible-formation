@@ -9,3 +9,7 @@ Nous ne disposons pas des droits root des l'authentification
 Il faut bien augmenter les droits avec sudo
 
 #  Un peu de pratique
+
+Suivi des consignes pour la génération de clés ssh  
+
+
