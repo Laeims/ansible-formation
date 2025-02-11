@@ -1,4 +1,7 @@
 # Exercice
+
+## ! Non terminé !
+
 Chaque partie est réalisée 2 fois, si il ya une difference elle est noté dans la partie **retour**  
 
 
