@@ -13,8 +13,8 @@ sudo vim /etc/hosts
 
 ssh-keygen
 
-ssh-copy-id vagrant@target01
-ssh-copy-id vagrant@target02
-ssh-copy-id vagrant@target03
+ssh-copy-id vagrant@target01  
+ssh-copy-id vagrant@target02  
+ssh-copy-id vagrant@target03  
 
 
