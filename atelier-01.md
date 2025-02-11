@@ -28,18 +28,18 @@ on note une version d'ansible en **2.17.8**
 
 # Exercice 03
 
-vagrant up rocky
-vagrant ssh rocky
-python3 -m venv ~/.venv/ansible
-source ~/.venv/ansible/bin/activate
-pip install --upgrade pip
-pip install ansible
-ansible --version
-deactivate
-exit
-vagrant destroy -f rocky
+vagrant up rocky  
+vagrant ssh rocky  
+python3 -m venv ~/.venv/ansible  
+source ~/.venv/ansible/bin/activate  
+pip install --upgrade pip  
+pip install ansible  
+ansible --version  
+deactivate  
+exit  
+vagrant destroy -f rocky  
 
-on note une version d'ansible en **2.15.13**
+on note une version d'ansible en **2.15.13**  
 
 
 
