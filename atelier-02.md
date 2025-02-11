@@ -2,7 +2,7 @@
 
 Le compte utilisateur joignable est vagrant
 
-La methode est par clé SSH privée
+La methode est par clé SSH publique par defaut.   
 
 Nous ne disposons pas des droits root des l'authentification
 
