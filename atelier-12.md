@@ -43,4 +43,5 @@ chrony.yml
 ...
 ```
 
-Sur une dizaine d'execution du playbook, le résultat reste toujours identique, mais avec une variation d'environ 1 secondes en fonction des executions.
+Sur une dizaine d'execution du playbook, le résultat reste toujours identique, mais avec une variation d'environ 1 secondes en fonction des executions.  
+Je n'ai pas d'idée particuliere sur comment ameliorer l'idempotence du playbook.
