@@ -33,6 +33,7 @@ chrony.yml
         dest: "{{chrony_config_directory}}"
         mode: 0644
         src: chrony-conf.j2
+      notify : Reload Chrony
 
   handlers:
 
